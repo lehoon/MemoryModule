@@ -17,4 +17,4 @@ file gets deleted.
 memory - without storing on the disk first.
 
 See `doc/readme.rst` for more informations about the format of a DLL file and
-a tutorial how they can be loaded directly.1
+a tutorial how they can be loaded directly.
